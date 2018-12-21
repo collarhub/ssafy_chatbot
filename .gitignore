@@ -1,0 +1,11 @@
+.idea/
+
+__pycache__/
+
+ngrok.exe
+
+chatbot.7z
+
+venv/
+testtest.py
+user_list.json
